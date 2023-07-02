@@ -1,6 +1,6 @@
 # Library-Archives
 
-BISU Library Archives
+BISU Library and Archives
  A comprehensive library system designed specifically for schools, enabling efficient management of books, resources, and borrowing processe
 <br>
 <br>
